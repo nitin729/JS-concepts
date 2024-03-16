@@ -38,7 +38,7 @@ console.log(id === anotherId);
 
 const heros = ["shaktiman", "naagraj", "doga"];
 let myObj = {
-  name: "hitesh",
+  name: "john",
   age: 22,
 };
 
